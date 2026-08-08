@@ -1,0 +1,8 @@
+department,total_employees,voluntary_count,involuntary_count,voluntary_rate_pct,involuntary_rate_pct
+Operations,26,8,4,30.8,15.4
+Sales,29,7,3,24.1,10.3
+IT,22,5,3,22.7,13.6
+Finance,27,6,2,22.2,7.4
+"Customer Support",29,5,4,17.2,13.8
+Marketing,27,4,5,14.8,18.5
+HR,20,1,5,5.0,25.0
