@@ -1,0 +1,63 @@
+event_id,employee_id,event_date,event_type,exit_type,reason_code
+EV2049,E1017,29/08/2025,Resigned,Voluntary,Work-Life Balance
+EV2019,E1178,29-Aug-2025,Resigned,Voluntary,PERFORMANCE ISSUES
+EV2059,E1078,2025-04-13,Resigned,Voluntary,Performance Issues
+EV2014,E1099,2025-12-21,Resigned,Voluntary,Health Reasons
+EV2038,E1135,2025-03-18,Terminated,Involuntary,Relocation
+EV2024,E1122,2025-07-10,Resigned,Voluntary,relocation
+EV2007,E1074,05-Jul-2025,Terminated,Involuntary,  Personal Reasons  
+EV2029,E1027,01/08/2025,Resigned,Voluntary,Work-Life Balance
+EV2013,E1130,20-Mar-2025,Resigned,Voluntary,Personal Reasons
+EV2034,E1163,12/03/2025,Resigned,Voluntary,Career Growth
+EV2026,E1039,2025-05-20,Terminated,Involuntary,PERSONAL REASONS
+EV2032,E1168,25-Apr-2025,Resigned,Voluntary,Performance Issues
+EV2046,E1087,2025-10-20,Terminated,Involuntary,PERSONAL REASONS
+EV2005,E1015,2025-03-07,Resigned,Voluntary,Work-Life Balance
+EV2036,E1113,2025-08-18,Resigned,Voluntary,Relocation
+EV2010,E1024,2025-03-21,Resigned,Voluntary,Career Growth
+EV2054,E1033,2025-10-07,Terminated,Involuntary,  Personal Reasons  
+EV2056,E1110,20/11/2025,Resigned,Voluntary,Personal Reasons
+EV2031,E1022,2025-07-17,Resigned,Voluntary,PERFORMANCE ISSUES
+EV2062,E1043,2025-05-27,Terminated,Involuntary,Better Opportunity
+EV2047,E1014,2025-12-07,Resigned,Voluntary,Performance Issues
+EV2017,E1142,2025-11-09,Terminated,Involuntary,Health Reasons
+EV2016,E1149,13/12/2025,Resigned,Voluntary,Health Reasons
+EV2052,E1167,2025-05-04,Resigned,Voluntary,  Performance Issues  
+EV2012,E1153,2025-11-13,Resigned,Voluntary,Work-Life Balance
+EV2028,E1162,19/08/2025,Terminated,Involuntary,Better Opportunity
+EV2008,E1020,20/04/2025,Terminated,Involuntary,Health Reasons
+EV2061,E1173,2025-05-10,Resigned,Voluntary,Compensation Dissatisfaction
+EV2050,E1085,2025-07-11,Terminated,Involuntary,Better Opportunity
+EV2035,E1064,30/08/2025,Resigned,Voluntary,Health Reasons
+EV2051,E1025,02/07/2025,Resigned,Voluntary,Performance Issues
+EV2060,E1112,2025-06-08,Terminated,Involuntary,Health Reasons
+EV2006,E1095,2025-09-18,Terminated,Involuntary,better opportunity
+EV2048,E1086,2025-02-04,Resigned,Voluntary,WORK-LIFE BALANCE
+EV2002,E1119,2025-06-08,Terminated,Involuntary,Personal Reasons
+EV2037,E1145,10-Jan-2025,Terminated,Involuntary,  Compensation Dissatisfaction  
+EV2003,E1116,01/11/2025,Resigned,Voluntary,Career Growth
+EV2023,E1155,09/05/2025,Resigned,Voluntary,Health Reasons
+EV2041,E1094,03/08/2025,Terminated,Involuntary,Relocation
+EV2018,E1011,30-Apr-2025,Resigned,Voluntary,career growth
+EV2027,E1016,12-Aug-2025,Resigned,Voluntary,COMPENSATION DISSATISFACTION
+EV2015,E1179,23/01/2025,Terminated,Involuntary,Performance Issues
+EV2040,E1041,2025-03-04,Resigned,Voluntary,Compensation Dissatisfaction
+EV2030,E1088,2025-09-15,Terminated,Involuntary,Compensation Dissatisfaction
+EV2045,E1105,11/11/2025,Terminated,Involuntary,Compensation Dissatisfaction
+EV2021,E1049,2025-05-25,Terminated,Involuntary,Work-Life Balance
+EV2033,E1045,20-Feb-2025,Terminated,Involuntary,Personal Reasons
+EV2039,E1134,28/05/2025,Resigned,Voluntary,career growth
+EV2055,E1093,17-Dec-2025,Terminated,Involuntary,HEALTH REASONS
+EV2053,E1138,10-Mar-2025,Resigned,Voluntary,Performance Issues
+EV2042,E1096,2025-02-26,Terminated,Involuntary,
+EV2044,E1100,30/05/2025,Terminated,Involuntary,Better Opportunity
+EV2011,E1158,2025-02-21,Resigned,Voluntary,  Performance Issues  
+EV2020,E1147,14/12/2025,Terminated,Involuntary,HEALTH REASONS
+EV2022,E1083,2025-03-24,Resigned,Voluntary,Personal Reasons
+EV2001,E1080,2025-02-11,Resigned,Voluntary,Performance Issues
+EV2009,E1166,2025-04-09,Resigned,Voluntary,Personal Reasons
+EV2057,E1131,02-Feb-2025,Terminated,Involuntary,Better Opportunity
+EV2004,E1010,2025-10-14,Terminated,Involuntary,  Performance Issues  
+EV2058,E1117,31-May-2025,Resigned,Voluntary,better opportunity
+EV2025,E1129,26/05/2025,Resigned,Voluntary,Personal Reasons
+EV2043,E1073,20/11/2025,Resigned,Voluntary,personal reasons

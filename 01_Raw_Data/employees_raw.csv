@@ -1,0 +1,196 @@
+employee_id,first_name,last_name,gender,age,department,job_role,city,hire_date,base_salary
+E1011,Shreya,Mehta,Female,25.0,Operations,Operations Executive,Delhi,2021-05-24,31967.0
+E1080,Reyansh,Das,Male,40.0,  Finance  ,Finance Manager,Pune,2024-06-17,115508.0
+E1165,Neha,Shah,Male,41.0,HR,HR Manager,Pune,2024-05-01,90392.0
+E1143,Deepak,Banerjee,Female,30.0,IT,IT Support Executive,Ahmedabad,24/10/2023,
+E1070,Deepak,Das,Female,22.0,Operations,Operations Manager,  Ahmedabad  ,2019-07-29,70772.0
+E1134,Aadhya,Chatterjee,Male,49.0,sales,Business Development Associate,Mumbai,2020-10-30,48997.0
+E1036,Krishna,Singh,Female,57.0,Customer Support,Customer Support Executive,Delhi,2024-06-23,45295.0
+E1138,Manoj,Kulkarni,Female,26.0,CUSTOMER SUPPORT,Quality Analyst,Ahmedabad,06/10/2024,62331.0
+E1026,Amit,Chatterjee,Female,51.0,Finance,Accounts Executive,Ahmedabad,15/10/2022,28090.0
+E1003,Manoj,Reddy,Male,55.0,operations,Process Associate,  Ahmedabad  ,2022-06-14,39719.0
+E1013,Pallavi,Chopra,Female,48.0,Customer Support,Quality Analyst,Ahmedabad,11-Nov-2020,59373.0
+E1129,Sunita,Sharma,Female,50.0,IT,QA Engineer,HYDERABAD,2023-02-24,49840.0
+E1145,Geeta,Kulkarni,Male,55.0,Operations,Operations Manager,,2024-03-29,122184.0
+E1004,Kabir,Das,Male,48.0,  Finance  ,Finance Analyst,Chennai,21/10/2021,-55189.0
+E1049,Ananya,Rao,Male,27.0,Customer Support,Quality Analyst,  Ahmedabad  ,2024-06-27,75847.0
+E1030,Manoj,Iyer,Female,24.0,  Marketing  ,Marketing Executive,Mumbai,2023-11-16,49692.0
+E1015,Ashok,Gupta,Female,45.0,Operations,Process Associate,Ahmedabad,2019-09-03,42338.0
+E1120,Riya,Bose,Female,30.0,Customer Support,Team Lead - Support,Kolkata,04-Jul-2024,29136.0
+E1007,Sanjay,Reddy,Female,25.0,Customer Support,Quality Analyst,MUMBAI,14-May-2022,63965.0
+E1024,Deepak,Patel,Male,21.0,Finance,Finance Manager,Pune,2024-04-05,100007.0
+E1109,Meera,Gupta,Male,41.0,Marketing,Marketing Manager,hyderabad,2021-04-18,85194.0
+E1144,Ananya,Verma,Female,44.0,HR,Talent Acquisition Specialist,Delhi,2019-12-13,74143.0
+E1130,Kiran,Deshmukh,Female,37.0,HR,HR Manager,Kolkata,14-Jul-2021,96111.0
+E1175,Shreya,Mishra,Male,40.0,  HR  ,Talent Acquisition Specialist,Chennai,09/06/2022,66827.0
+E1046,Ishaan,Verma,Female,40.0,Finance,Accounts Executive,Chennai,2024-06-22,54455.0
+E1121,Reyansh,Mishra,Female,49.0,finance,Finance Manager,Pune,2019-01-09,129890.0
+E1174,Sai,Deshmukh,Female,27.0,finance,Finance Analyst,Delhi,2020-01-14,83592.0
+E1126,Vihaan,Shah,Female,43.0,Sales,Sales Executive,,03/02/2020,29770.0
+E1010,Kiran,Das,Female,56.0,HR,HR Manager,  Delhi  ,14-Apr-2021,77331.0
+E1164,Sai,Banerjee,Male,54.0,sales,Sales Executive,Delhi,2020-09-14,38757.0
+E1055,Neha,Deshmukh,Male,25.0,Customer Support,Quality Analyst,Chennai,27-May-2021,
+E1014,Sai,Mukherjee,Female,24.0,Operations,Process Associate,,2023-03-17,45560.0
+E1110,Sunita,Mishra,Male,55.0,Marketing,Digital Marketing Specialist,kolkata,15-Apr-2020,48552.0
+E1005,Sai,Chavan,Male,27.0,Operations,Operations Manager,CHENNAI,24-Jan-2021,104671.0
+E1079,Sanjay,Bose,Female,,Finance,Accounts Executive,Ahmedabad,12/09/2022,27490.0
+E1115,Divya,Menon,Female,36.0,Customer Support,Team Lead - Support,  Kolkata  ,20/04/2023,
+E1045,Krishna,Gupta,Male,30.0,customer support,Team Lead - Support,Mumbai,12/10/2020,44087.0
+E1083,Ravi,Chatterjee,Female,55.0,Customer Support,Quality Analyst,kolkata,2019-09-16,73545.0
+E1159,Sunita,Iyer,Female,47.0,Finance,Finance Manager,chennai,2020-03-06,76743.0
+E1124,Ravi,Gupta,Male,36.0,CUSTOMER SUPPORT,Team Lead - Support,Hyderabad,2022-05-16,49470.0
+E1161,Priya,Mishra,Male,56.0,HR,HR Executive,Chennai,20-Aug-2023,49989.0
+E1095,Saanvi,Mishra,Male,51.0,it,Software Engineer,pune,10/03/2024,71260.0
+E1058,Diya,Reddy,Female,48.0,Finance,Accounts Executive,chennai,2019-09-16,39476.0
+E1042,Ananya,Shah,Male,34.0,Customer Support,Quality Analyst,Chennai,22-Aug-2022,86565.0
+E1067,Anjali,Gupta,Female,39.0,Customer Support,Customer Support Executive,Delhi,16/11/2021,36005.0
+E1099,Kabir,Patel,Male,32.0,IT,IT Support Executive,pune,2023-03-02,25087.0
+E1006,Rajesh,Iyer,Female,45.0,Marketing,Marketing Executive,Pune,20/08/2021,52177.0
+E1054,Saanvi,Verma,Male,48.0,HR,Talent Acquisition Specialist,MUMBAI,03/02/2019,80287.0
+E1112,Diya,Pillai,Male,52.0,IT,IT Support Executive,  Pune  ,2024-08-06,45644.0
+E1012,Lakshmi,Pillai,Female,30.0,Customer Support,Team Lead - Support,Hyderabad,11-May-2023,33081.0
+E1100,Diya,Verma,Female,35.0,HR,HR Manager,hyderabad,2021-10-01,129510.0
+E1025,Arjun,Kapoor,Female,36.0,Sales,Sales Executive,Hyderabad,24-Jun-2019,32020.0
+E1147,Arjun,Pandey,Male,56.0,operations,Operations Executive,Delhi,2022-07-02,51642.0
+E1065,Anjali,Bhatt,Female,53.0,MARKETING,Digital Marketing Specialist,Ahmedabad,03/12/2019,55430.0
+E1009,Rekha,Bose,Female,25.0,IT,Software Engineer,Bengaluru,2022-03-06,55708.0
+E1176,Vikram,Agarwal,Male,28.0,Marketing,Marketing Executive,Delhi,2021-01-01,36504.0
+E1173,Krishna,Chavan,Female,22.0,Customer Support,Team Lead - Support,Chennai,30-Dec-2022,51257.0
+E1029,Ishaan,Deshmukh,Female,32.0,Operations,Process Associate,Hyderabad,26-Sep-2019,33185.0
+E1131,Amit,Chavan,Male,57.0,HR,HR Manager,CHENNAI,2021-08-09,108696.0
+E1072,Vivaan,Chavan,Female,42.0,it,QA Engineer,Ahmedabad,26/01/2023,75630.0
+E1043,Saanvi,Singh,Female,,Marketing,Digital Marketing Specialist,Pune,04-Mar-2020,63132.0
+E1066,Saanvi,Mukherjee,Female,36.0,CUSTOMER SUPPORT,Team Lead - Support,HYDERABAD,28-Jan-2019,-40879.0
+E1135,Kavya,Banerjee,Female,47.0,  Operations  ,Operations Executive,  Bengaluru  ,02/09/2022,29330.0
+E1114,Krishna,Agarwal,Female,30.0,Marketing,Marketing Executive,Kolkata,25/08/2021,41674.0
+E1170,Nisha,Banerjee,Male,48.0,IT,Software Engineer,Bengaluru,2023-06-22,69917.0
+E1111,Ravi,Mukherjee,Female,52.0,Operations,Process Associate,KOLKATA,05-May-2024,31670.0
+E1107,Sai,Menon,Female,43.0,HR,Talent Acquisition Specialist,Ahmedabad,2021-03-08,66040.0
+E1140,Vivaan,Bhatt,Female,56.0,CUSTOMER SUPPORT,Customer Support Executive,chennai,2022-06-10,46222.0
+E1132,Ananya,Sharma,Female,57.0,Sales,Business Development Associate,MUMBAI,09-May-2019,52290.0
+E1162,Sneha,Mishra,Male,56.0,IT,IT Support Executive,MUMBAI,2021-12-03,25948.0
+E1127,Sanjay,Bose,Female,32.0,  Operations  ,Process Associate,BENGALURU,16-Dec-2022,27587.0
+E1093,Ananya,Verma,Male,24.0,customer support,Quality Analyst,Hyderabad,04/07/2023,86803.0
+E1002,Deepak,Deshmukh,Male,23.0,  Sales  ,Business Development Associate,MUMBAI,15-Nov-2023,32164.0
+E1086,Ishita,Mehta,Female,38.0,Operations,Operations Manager,Mumbai,16-Feb-2019,95042.0
+E1020,Vihaan,Patel,Male,,  Marketing  ,Digital Marketing Specialist,Pune,2023-12-18,76849.0
+E1148,Rohan,Chatterjee,Female,21.0,marketing,Marketing Executive,HYDERABAD,20/04/2023,29259.0
+E1156,Meera,Chavan,Female,47.0,Operations,Operations Manager,Pune,01/06/2021,125936.0
+E1162,Sneha,Mishra,Male,56.0,IT,IT Support Executive,MUMBAI,2021-12-03,25948.0
+E1090,Aadhya,Mehta,Female,35.0,Customer Support,Team Lead - Support,Pune,2022-10-06,35339.0
+E1037,Saanvi,Reddy,Female,41.0,  Sales  ,Sales Manager,Delhi,11/12/2021,121876.0
+E1167,Ananya,Reddy,Female,53.0,FINANCE,Finance Analyst,Pune,19/01/2021,73174.0
+E1101,Saanvi,Chatterjee,Male,58.0,sales,Business Development Associate,  Delhi  ,26/02/2020,28760.0
+E1063,Reyansh,Mukherjee,Male,48.0,  Operations  ,Process Associate,Delhi,2022-12-13,51349.0
+E1001,Pallavi,Mehta,Male,36.0,Customer Support,Customer Support Executive,delhi,11/05/2023,49132.0
+E1028,Vihaan,Chavan,Male,42.0,customer support,Quality Analyst,Pune,18-Feb-2022,57556.0
+E1153,Shreya,Deshmukh,Female,27.0,Sales,Sales Executive,KOLKATA,2019-12-13,27408.0
+E1172,Arjun,Mishra,Female,41.0,HR,HR Executive,Ahmedabad,2020-05-21,-48248.0
+E1055,Neha,Deshmukh,Male,25.0,Customer Support,Quality Analyst,Chennai,2021-05-27,
+E1021,Ishaan,Bose,Male,51.0,marketing,Marketing Executive,BENGALURU,13/12/2021,42290.0
+E1154,Arjun,Nair,Male,,Sales,Sales Manager,Chennai,2020-08-25,139541.0
+E1152,Vikram,Patel,Female,23.0,Finance,Accounts Executive,Hyderabad,2019-10-14,46080.0
+E1139,Neha,Bose,Female,37.0,Finance,Accounts Executive,AHMEDABAD,2020-10-03,28550.0
+E1078,Kabir,Bhatt,Female,28.0,Customer Support,Team Lead - Support,Bengaluru,2021-06-07,-28542.0
+E1031,Pooja,Menon,Male,51.0,Marketing,Marketing Executive,Delhi,2020-06-04,54571.0
+E1150,Vivaan,Rao,Female,37.0,Marketing,Marketing Executive,Mumbai,02/07/2023,49304.0
+E1018,Kiran,Kapoor,Female,33.0,Marketing,Marketing Manager,Bengaluru,23-Sep-2020,91174.0
+E1060,Sai,Pandey,Female,36.0,customer support,Quality Analyst,Hyderabad,27/05/2022,58050.0
+E1177,Amit,Iyer,Male,30.0,  Customer Support  ,Quality Analyst,Hyderabad,16-Sep-2022,56370.0
+E1113,Aadhya,Malhotra,Male,21.0,  Finance  ,Accounts Executive,Ahmedabad,17-Nov-2023,32362.0
+E1166,Geeta,Gupta,Male,38.0,Operations,Process Associate,kolkata,02/03/2020,40914.0
+E1128,Nisha,Chopra,Male,30.0,Finance,Finance Analyst,Delhi,02/10/2019,86805.0
+E1158,Reyansh,Banerjee,Female,44.0,Sales,Sales Executive,Bengaluru,01-Apr-2024,44217.0
+E1094,Aarav,Chopra,Male,39.0,Marketing,Digital Marketing Specialist,Kolkata,22/07/2019,73866.0
+E1116,Arjun,Mehta,Male,47.0,Operations,Process Associate,CHENNAI,2019-03-25,33754.0
+E1022,Karan,Malhotra,Female,33.0,Marketing,Marketing Manager,  Hyderabad  ,2020-06-12,118944.0
+E1056,Vikram,Shah,Female,47.0,Marketing,Marketing Executive,Chennai,2020-05-29,47846.0
+E1017,Meera,Sharma,Male,37.0,IT,QA Engineer,bengaluru,25-Mar-2019,51973.0
+E1142,Krishna,Iyer,Female,36.0,Sales,Sales Manager,  Bengaluru  ,25/07/2020,129459.0
+E1092,Diya,Patel,Male,44.0,IT,Software Engineer,Bengaluru,2021-07-13,45927.0
+E1100,Diya,Verma,Female,35.0,HR,HR Manager,hyderabad,2021-10-01,129510.0
+E1119,Sanjay,Chavan,Male,35.0,Marketing,Marketing Executive,  Ahmedabad  ,07-Jun-2024,35426.0
+E1012,Lakshmi,Pillai,Female,30.0,Customer Support,Team Lead - Support,Hyderabad,2023-05-11,33081.0
+E1075,Riya,Mehta,Female,47.0,HR,HR Manager,Hyderabad,2024-01-02,131644.0
+E1123,Lakshmi,Gupta,Female,42.0,IT,QA Engineer,Ahmedabad,2021-05-15,86077.0
+E1157,Neha,Nair,Female,51.0,IT,IT Support Executive,Pune,2023-11-25,52255.0
+E1141,Rekha,Shah,Female,47.0,Sales,Business Development Associate,Pune,10/05/2023,26485.0
+E1108,Ishita,Deshmukh,Male,52.0,customer support,Customer Support Executive,Hyderabad,06/06/2020,51658.0
+E1088,Diya,Patel,Male,46.0,Marketing,Marketing Executive,Delhi,2021-06-27,46756.0
+E1091,Dhruv,Reddy,Male,51.0,sales,Business Development Associate,HYDERABAD,15/01/2019,44555.0
+E1085,Ishita,Sharma,Female,52.0,Operations,Operations Manager,Chennai,19/11/2022,133904.0
+E1019,Ashok,Joshi,Male,52.0,Finance,Finance Manager,Mumbai,01-Sep-2023,117576.0
+E1098,Aadhya,Chopra,Female,24.0,HR,HR Manager,Pune,04/08/2022,97659.0
+E1102,Ananya,Pandey,Male,30.0,  Finance  ,Accounts Executive,PUNE,2024-04-02,30436.0
+E1160,Priya,Iyer,Female,57.0,IT,IT Support Executive,Delhi,10/03/2023,46519.0
+E1155,Reyansh,Chatterjee,Female,28.0,IT,QA Engineer,DELHI,06-Feb-2020,74593.0
+E1062,Anita,Das,Male,45.0,Customer Support,Quality Analyst,Kolkata,2020-06-10,60989.0
+E1082,Kiran,Singh,Female,50.0,sales,Sales Manager,Bengaluru,15/01/2020,-93086.0
+E1136,Suresh,Kapoor,Female,38.0,Marketing,Marketing Manager,  Bengaluru  ,15/01/2022,
+E1069,Pooja,Joshi,Female,55.0,OPERATIONS,Operations Executive,KOLKATA,2020-04-04,27040.0
+E1057,Dhruv,Deshmukh,Male,45.0,  IT  ,IT Support Executive,bengaluru,19/07/2021,38306.0
+E1020,Vihaan,Patel,Male,,  Marketing  ,Digital Marketing Specialist,Pune,2023-12-18,76849.0
+E1087,Nisha,Malhotra,Female,36.0,Sales,Sales Executive,Kolkata,2019-06-02,39685.0
+E1071,Pooja,Malhotra,Female,55.0,IT,QA Engineer,Delhi,2019-06-13,59380.0
+E1061,Amit,Menon,Male,25.0,Operations,Operations Executive,Kolkata,2020-04-10,54036.0
+E1035,Vihaan,Kapoor,Male,26.0,marketing,Marketing Manager,  Bengaluru  ,2024-02-26,78907.0
+E1041,Sunita,Iyer,Female,29.0,marketing,Marketing Manager,hyderabad,2023-08-18,84029.0
+E1077,Amit,Nair,Male,51.0,operations,Operations Executive,Pune,24/06/2022,40238.0
+E1180,Ananya,Chopra,Female,24.0,HR,Talent Acquisition Specialist,  Chennai  ,26/03/2019,49862.0
+E1027,Priya,Deshmukh,Female,47.0,  Sales  ,Business Development Associate,,2024-04-25,47064.0
+E1033,Rohan,Reddy,Female,39.0,Customer Support,Quality Analyst,Delhi,2024-04-07,82957.0
+E1107,Sai,Menon,Female,43.0,HR,Talent Acquisition Specialist,Ahmedabad,08-Mar-2021,66040.0
+E1097,Ashok,Bhatt,Female,35.0,  Sales  ,Business Development Associate,ahmedabad,2019-11-14,54769.0
+E1084,Kavya,Mishra,Female,36.0,Marketing,Marketing Manager,Pune,2021-10-17,129087.0
+E1111,Ravi,Mukherjee,Female,52.0,Operations,Process Associate,KOLKATA,05/05/2024,31670.0
+E1106,Suresh,Agarwal,Female,49.0,Sales,Sales Executive,Hyderabad,20/11/2022,44180.0
+E1074,Aryan,Verma,Female,37.0,HR,HR Executive,AHMEDABAD,2021-04-02,31935.0
+E1118,Ishita,Malhotra,Female,55.0,Finance,Finance Analyst,  Ahmedabad  ,2019-10-25,66088.0
+E1146,Meera,Gupta,Male,,IT,Software Engineer,Mumbai,2024-05-09,66856.0
+E1151,Pallavi,Gupta,Male,51.0,HR,Talent Acquisition Specialist,  Kolkata  ,11-Nov-2020,78635.0
+E1109,Meera,Gupta,Male,41.0,Marketing,Marketing Manager,hyderabad,2021-04-18,85194.0
+E1137,Krishna,Pillai,Female,25.0,Marketing,Digital Marketing Specialist,Bengaluru,23/05/2022,89323.0
+E1040,Diya,Rao,Female,49.0,Sales,Sales Executive,Hyderabad,31/10/2024,46884.0
+E1050,Priya,Shah,Female,35.0,Operations,Operations Executive,Delhi,2024-08-28,46627.0
+E1113,Aadhya,Malhotra,Male,21.0,  Finance  ,Accounts Executive,Ahmedabad,2023-11-17,32362.0
+E1133,Rahul,Agarwal,Female,33.0,IT,Software Engineer,HYDERABAD,22-May-2023,86172.0
+E1051,Ananya,Mishra,Female,25.0,Operations,Operations Manager,  Hyderabad  ,2020-12-25,136768.0
+E1053,Priya,Banerjee,Female,41.0,  Sales  ,Business Development Associate,Ahmedabad,2019-03-10,28789.0
+E1081,Arjun,Kapoor,Female,42.0,  Finance  ,Finance Analyst,Mumbai,18/03/2020,77125.0
+E1117,Swati,Shah,Female,58.0,MARKETING,Marketing Executive,Kolkata,04/04/2023,39632.0
+E1122,Pooja,Mishra,Male,30.0,sales,Business Development Associate,Pune,28-Aug-2019,50609.0
+E1036,Krishna,Singh,Female,57.0,Customer Support,Customer Support Executive,Delhi,23/06/2024,45295.0
+E1047,Sunita,Iyer,Male,43.0,  IT  ,Software Engineer,ahmedabad,10/03/2023,60514.0
+E1089,Manoj,Kapoor,Female,43.0,Finance,Finance Analyst,Ahmedabad,19/03/2021,68056.0
+E1070,Deepak,Das,Female,22.0,Operations,Operations Manager,  Ahmedabad  ,29-Jul-2019,70772.0
+E1068,Ishaan,Nair,Male,35.0,IT,IT Support Executive,Ahmedabad,2023-03-18,48147.0
+E1179,Kiran,Joshi,Female,30.0,FINANCE,Finance Manager,Kolkata,2024-02-27,131462.0
+E1059,Vikram,Menon,Male,31.0,HR,Talent Acquisition Specialist,  Pune  ,27/09/2021,78780.0
+E1034,Pallavi,Joshi,Male,24.0,Customer Support,Quality Analyst,Mumbai,2019-07-30,77954.0
+E1039,Rajesh,Reddy,Male,53.0,Finance,Accounts Executive,HYDERABAD,09/06/2023,36436.0
+E1104,Anjali,Gupta,Female,23.0,Finance,Finance Manager,Ahmedabad,22-Apr-2021,102816.0
+E1052,Vivaan,Iyer,Female,37.0,HR,Talent Acquisition Specialist,Bengaluru,2021-12-11,47507.0
+E1108,Ishita,Deshmukh,Male,52.0,customer support,Customer Support Executive,Hyderabad,2020-06-06,51658.0
+E1171,Vikram,Malhotra,Male,43.0,Finance,Finance Manager,pune,2020-06-20,75544.0
+E1005,Sai,Chavan,Male,27.0,Operations,Operations Manager,CHENNAI,24/01/2021,104671.0
+E1103,Anjali,Iyer,Female,50.0,Marketing,Digital Marketing Specialist,Hyderabad,29/05/2020,62841.0
+E1168,Suresh,Bose,Female,40.0,Sales,Sales Manager,Mumbai,2022-06-13,
+E1038,Meera,Joshi,Female,25.0,Operations,Process Associate,,13/10/2019,45354.0
+E1117,Swati,Shah,Female,58.0,MARKETING,Marketing Executive,Kolkata,2023-04-04,39632.0
+E1125,Kiran,Das,Male,27.0,  Sales  ,Sales Manager,KOLKATA,21/01/2023,109251.0
+E1149,Krishna,Bose,Male,22.0,Finance,Finance Analyst,BENGALURU,03/10/2024,68477.0
+E1032,Aarav,Chavan,Female,37.0,SALES,Sales Executive,Kolkata,2021-09-21,38861.0
+E1064,Vihaan,Malhotra,Female,36.0,Customer Support,Quality Analyst,  Pune  ,2019-10-21,53738.0
+E1048,Pooja,Sharma,Male,32.0,  Marketing  ,Marketing Executive,Chennai,2020-04-21,51287.0
+E1128,Nisha,Chopra,Male,30.0,Finance,Finance Analyst,Delhi,02-Oct-2019,86805.0
+E1096,Rohan,Nair,Male,57.0,HR,HR Executive,Hyderabad,2023-12-20,33132.0
+E1178,Aryan,Mukherjee,Male,52.0,Finance,Accounts Executive,KOLKATA,21/11/2019,47319.0
+E1163,Ishita,Kulkarni,Female,21.0,operations,Operations Manager,Bengaluru,2023-04-26,122531.0
+E1008,Riya,Mehta,Male,50.0,  Sales  ,Sales Executive,  Chennai  ,05-Feb-2023,37130.0
+E1105,Geeta,Pandey,Male,57.0,Sales,Sales Executive,Mumbai,2021-11-25,43882.0
+E1076,Priya,Patel,Male,25.0,Sales,Business Development Associate,  Mumbai  ,28/07/2024,33102.0
+E1044,Ishaan,Agarwal,Female,37.0,sales,Sales Executive,BENGALURU,20-Dec-2019,43077.0
+E1023,Krishna,Patel,Female,35.0,  HR  ,Talent Acquisition Specialist,pune,17-Feb-2021,46378.0
+E1073,Shreya,Chopra,Male,57.0,Operations,Process Associate,Mumbai,2023-12-25,46061.0
+E1016,Geeta,Banerjee,Male,28.0,it,IT Support Executive,  Hyderabad  ,08-Feb-2021,28655.0
+E1169,Karan,Shah,Male,34.0,  Finance  ,Accounts Executive,bengaluru,21/01/2022,34484.0
